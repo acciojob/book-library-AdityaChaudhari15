@@ -26,3 +26,6 @@ body{
 			align-content:center;
 			align-self: center;
         }
+.book button{
+	width: 500px;
+}
